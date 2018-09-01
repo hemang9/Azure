@@ -8,3 +8,5 @@ Primary ConnectionString:
 Endpoint=sb://heritageinfotech.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=w3Ha1m/OIwlCppZZrKs4PL988Y6n2loa6xd78Iup168=
 Secondary ConnectionString:
 Endpoint=sb://heritageinfotech.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=77pXX86nJybDO7tte6vEWgLYUwenVy+GGHATPPppQu0=
+
+modify as poart of develop branch
